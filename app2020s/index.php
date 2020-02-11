@@ -1,5 +1,6 @@
 <?php
 
+
 // smartyの設定ファイル読み込み
 require_once("./libs/Smarty.class.php");
 
